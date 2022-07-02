@@ -1,6 +1,8 @@
 #!/bin/bash
 ls -l
+
 #!/bin/bash
 ls -al
+
 #!/bin/bash
 ls -la
