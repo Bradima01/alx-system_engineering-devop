@@ -1,3 +1,3 @@
 
-task 7 .betty myfistdirectory
+task 7 .betty myfirstdirectory
 
