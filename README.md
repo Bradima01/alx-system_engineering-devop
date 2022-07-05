@@ -1,2 +1,3 @@
-Task 5. i love numbers
+
+task 7 .betty myfirstdirectory
 
