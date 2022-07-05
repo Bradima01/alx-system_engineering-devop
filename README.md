@@ -1,2 +1,3 @@
-Task 6 .Welcome
+
+task 7 .betty myfistdirectory
 
